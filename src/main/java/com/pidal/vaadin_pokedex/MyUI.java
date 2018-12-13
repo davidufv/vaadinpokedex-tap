@@ -96,7 +96,7 @@ public class MyUI extends UI {
     	TextField textFieldNumber = new TextField("Number");
     	TextField textFieldName = new TextField("Name");
     	TextField textFieldType = new TextField("Type");
-    	Button buttonAddPokemon = new Button("Add");
+    	Button buttonAddPokemon = new Button("Añadir");
     			
     	buttonAddPokemon.addClickListener(e -> {
     		
